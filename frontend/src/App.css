@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD&family=Poppins:wght@400;500;600&display=swap');
+
 .landingPageContainer{
   width:100vw;
   height:100vh;
@@ -76,3 +78,22 @@
   width: 30vw;
   height:auto;
 }
+.footer .fire {
+  
+  font-size: 1.8rem;
+}
+ .footer{
+  position: fixed;            
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  /* color: rgb(59, 121, 236); */
+  padding: 1rem 0;
+   font-family: "Playwrite AU QLD", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+}
+

@@ -36,6 +36,9 @@ export default function LandingPage() {
           <img src='/mobile.png'></img>
         </div>
       </div>
+      <footer className="footer">
+      <p>Made with <span className="fire">🔥</span> by <strong>Deepanshu Sehrawat</strong></p>
+    </footer>
     </div>
   )
 }
