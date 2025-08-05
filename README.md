@@ -4,7 +4,12 @@
 [![License](https://img.shields.io/github/license/DeepanshuSehrawat/CrypTalk-VideoCall-Chat-App?style=for-the-badge)](LICENSE)
 
 CrypTalk is a modern, real-time video calling and chat application built with a full MERN stack (MongoDB, Express, React, Node.js). It leverages WebRTC for peer-to-peer media streaming and Socket.IO for bi-directional communication.
+## 🖼️ Screenshots
 
+![Home Page](<img width="1892" height="860" alt="image" src="https://github.com/user-attachments/assets/e9e82845-a5e9-4484-ab11-093663957a69" />
+)
+![Lobby Page](<img width="1888" height="902" alt="image" src="https://github.com/user-attachments/assets/1d75df18-0c2f-4b5a-a25f-54f47ce6bf10" />
+)
 ---
 
 ## 🔗 Live Project
