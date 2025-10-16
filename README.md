@@ -142,11 +142,11 @@ npm run dev
 
 📅 Google Calendar integration
 
-###👨‍💻 Author
+### 👨‍💻 Author
 Deepanshu Sehrawat
 
 🔗 GitHub Profile [https://github.com/DeepanshuSehrawat]
 
 📧 deepanshusehrawat008@gmail.com
 
-###Made with 🔥 by Deepanshu Sehrawat
+### Made with 🔥 by Deepanshu Sehrawat
